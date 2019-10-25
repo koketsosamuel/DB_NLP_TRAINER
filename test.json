@@ -1,0 +1,27 @@
+{
+  "intents": [
+    "rt",
+    "ggg",
+    "d",
+    "hhdd"
+  ],
+  "docs": [
+    {
+      "doc": "gg",
+      "intent": ""
+    },
+    {
+      "doc": "h",
+      "intent": ""
+    },
+    {
+      "doc": "r",
+      "intent": ""
+    },
+    {
+      "doc": "r",
+      "intent": "rt"
+    }
+  ],
+  "ans": []
+}
